@@ -1,6 +1,6 @@
 # lord_of_the_rings_movie_card
 
-A new Flutter project.
+A new Flutter project. It includes very simple mobile phone screen app designed for Lord Of The Rings Movie. You may find the screenshot of the app in the Screenshots folder.
 
 ## Getting Started
 
